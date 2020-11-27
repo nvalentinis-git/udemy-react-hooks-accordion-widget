@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f067c47-a4e3-4f77-8abe-4347c8a331e5" name="Default Changelist" comment="" />
+    <list default="true" id="7f067c47-a4e3-4f77-8abe-4347c8a331e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +32,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,6 +44,10 @@
       <option name="presentableId" value="Default" />
       <updated>1605541144416</updated>
       <workItem from="1605541145556" duration="569000" />
+      <workItem from="1605541932310" duration="1574000" />
+      <workItem from="1605553653510" duration="1000" />
+      <workItem from="1605644329143" duration="5149000" />
+      <workItem from="1605874976519" duration="7581000" />
     </task>
     <servers />
   </component>
@@ -44,9 +55,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="143" y="-799" width="670" height="676" key="search.everywhere.popup" timestamp="1605541304063">
+    <state x="-47" y="-977" key="SettingsEditor" timestamp="1605880273379">
       <screen x="-262" y="-1057" width="1920" height="1057" />
     </state>
+    <state x="-47" y="-977" key="SettingsEditor/0.23.1440.877/-262.-1057.1920.1057@-262.-1057.1920.1057" timestamp="1605880273379" />
+    <state x="304" y="237" width="670" height="561" key="search.everywhere.popup" timestamp="1606483671813">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
     <state x="143" y="-799" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-262.-1057.1920.1057@-262.-1057.1920.1057" timestamp="1605541304063" />
+    <state x="304" y="237" width="670" height="561" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1606483671813" />
   </component>
 </project>
