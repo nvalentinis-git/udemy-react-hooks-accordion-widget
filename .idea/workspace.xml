@@ -4,7 +4,7 @@
     <list default="true" id="7f067c47-a4e3-4f77-8abe-4347c8a331e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dropdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Converter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Converter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,22 +47,12 @@
       <workItem from="1605644329143" duration="5149000" />
       <workItem from="1605874976519" duration="7960000" />
       <workItem from="1606506139949" duration="2640000" />
-      <workItem from="1606827017773" duration="7022000" />
+      <workItem from="1606827017773" duration="8380000" />
+      <workItem from="1607092064238" duration="4563000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="-47" y="-977" key="SettingsEditor" timestamp="1605880273379">
-      <screen x="-262" y="-1057" width="1920" height="1057" />
-    </state>
-    <state x="-47" y="-977" key="SettingsEditor/0.23.1440.877/-262.-1057.1920.1057@-262.-1057.1920.1057" timestamp="1605880273379" />
-    <state x="304" y="237" width="670" height="561" key="search.everywhere.popup" timestamp="1606483671813">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="143" y="-799" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-262.-1057.1920.1057@-262.-1057.1920.1057" timestamp="1605541304063" />
-    <state x="304" y="237" width="670" height="561" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1606483671813" />
   </component>
 </project>

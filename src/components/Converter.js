@@ -50,9 +50,9 @@ const Converter = ({ language, text }) => {
 
   return (
     <div>
-      <hi className="ui header">
+      <h1 className="ui header">
         {translation}
-      </hi>
+      </h1>
     </div>
   )
 }
